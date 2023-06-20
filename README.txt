@@ -37,6 +37,9 @@ following actions:
 - The merged dataset is saved as 'user_ratings.csv' 
   (which is present in this folder and we'll also be
   using this data file for the rest of the project).
+- 'user_ratings.csv' is split into user_ratings.csv and 
+  'user_ratings2.csv' files because memory constraints 
+   of github.
 
 * After the execution of the above mentioned scripts
 (Jupyter notebooks), we've saved these scripts as
